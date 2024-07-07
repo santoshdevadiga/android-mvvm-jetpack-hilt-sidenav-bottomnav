@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboardFragment"
+        android:icon="@android:drawable/ic_menu_view"
+        android:iconTint="@color/white"
+        android:title="@string/menu_dashboard" />
+    <item
+        android:id="@+id/listFragment"
+        android:icon="@android:drawable/ic_lock_lock"
+        android:iconTint="@color/white"
+        android:title="@string/menu_listing" />
+    <item
+
+        android:enabled="false"
+         />
+    <item
+
+        android:icon="@android:drawable/ic_lock_lock"
+        android:iconTint="@color/white"
+        android:title="@string/menu_listing" />
+
+    <item
+        android:id="@+id/settingFragment"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:iconTint="@color/white"
+        android:title="@string/menu_setting" />
+
+</menu>

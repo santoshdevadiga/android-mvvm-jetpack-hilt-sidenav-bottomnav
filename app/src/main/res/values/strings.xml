@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_listing">Listing</string>
+    <string name="search_bar_hint">Search</string>
+    <string name="label_dashboard">Dashboard</string>
+    <string name="label_settings">Settings</string>
+    <string name="label_login">Login</string>
+    <string name="label_detail">Detail</string>
+    <string name="label_list">List</string>
+    <string name="label_bottomsheetdialog">BottomSheetDialog</string>
+    <string name="label_splash">Splash</string>
+    <string name="label_registration">Registration</string>
+
+</resources>
